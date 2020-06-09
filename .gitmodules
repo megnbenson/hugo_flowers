@@ -1,3 +1,6 @@
 [submodule "themes/minimal"]
 	path = themes/minimal
 	url = https://github.com/calintat/minimal.git
+[submodule "megnbenson.github.io"]
+	path = megnbenson.github.io
+	url = https://github.com/megnbenson/megnbenson.github.io.git
