@@ -4,3 +4,9 @@
 [submodule "megnbenson.github.io"]
 	path = megnbenson.github.io
 	url = https://github.com/megnbenson/megnbenson.github.io.git
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
+[submodule "hugo-theme-console"]
+	path = hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
