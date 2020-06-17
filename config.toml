@@ -1,7 +1,8 @@
-baseurl = "megnbenson.github.io"
+baseurl = "https://megnbenson.github.io/"
 title = "Meg"
 theme = "hugo-theme-console"
 languageCode = "en-us"
+publishDir = "megnbenson.github.io"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
