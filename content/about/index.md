@@ -4,6 +4,7 @@ title = "About"
 +++
 
 A girl lady person skater coder painter sculptor tipper whistler juggler (of tasks not balls)
+Find me on instagram <a href="https://www.instagram.com/megnbenson/">here</a> 
 
 <!--![Console](https://github.com/mrmierzejewski/hugo-theme-console/blob/master/images/preview.png?raw=true)-->
 <!--

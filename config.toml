@@ -1,5 +1,5 @@
 baseurl = "https://megnbenson.github.io/"
-title = "Meg"
+title = "Meg's Portfolio"
 theme = "hugo-theme-console"
 languageCode = "en-us"
 publishDir = "megnbenson.github.io"
