@@ -218,7 +218,7 @@ The regular meetings for a residency in June also started in January, these woul
 
 _planning_ Conceptual development - [post](https://megs2020degreeshowblog.tumblr.com/post/190409595893/art-meganbenson-notes-from-ataus-meeting-2201) - My initial iteration of the piece was called Reciprocity of touch, I was looking into how we often miss that the thing we touch, also touches you back. In the same light, the way we treat our care and maintenance workers affects us. My initial piece envisioned for the proposal was nothing like the finished project however. Meeting notes [here](https://megs2020degreeshowblog.tumblr.com/post/190550180173/notes-from-exhibition-meeting-with-atau-290120)
 
-Meanwhile, I made slow progress with the Magnet Man, [video here](https://megs2020degreeshowblog.tumblr.com/post/190550011933/progress-of-magnet-man-was-testing-powering-the)
+Meanwhile, I made slow progress with the Magnet Man, [video here, last section of the instagram highlight](https://www.instagram.com/stories/highlights/17843036956779024/)
 {{< img src="manProgress.jpg" alt="Tapping Man" >}}
 
 # **Feb 2020** 
