@@ -9,7 +9,8 @@ Documentation for Blossom Branch - Degree Show adapted project 2020
 <!--more-->
 
 Links:
-* [The Piece](http://meganbenson.me/flowers/)
+* [The piece](http://meganbenson.me/flowers/)
+* [A mockup for what it could have been](https://megs2020degreeshowblog.tumblr.com/post/621543313939546112/mock-up-of-what-it-could-have-been)
 * [github](https://github.com/megnbenson/flowers)
 * [tinkerCad flower](https://www.tinkercad.com/things/gHI3UGya7xu-flowerdesign)
 * [tinkerCad Cogs and Teeth](https://www.tinkercad.com/things/0eufW3KogaS-cogs-and-teeth) (see git for stl files of both the tinkerCad finished designs to 3D print)
@@ -429,14 +430,17 @@ future ideas for these flowers:
 Photosynthesising flowers, with a solar panel to power the movement
 Moving with data, organic movements to give visual performance changes
 
-
+Mock up for bigger tree:
+{{< figure class="grid two" figcaption="ideation" >}}
+  {{< img src="mockTree.png" alt="tree idea" >}}
+{{< /figure >}}
 
 
 # **References:**
 
 13th. 2016. [DVD] Directed by A. DuVernay.
 
-2014. Initial Cam Follower Image. [image] Available at: <https://www.flickr.com/photos/tinkering_studio/14794136427> [Accessed 15 June 2020].
+2014.Initial Cam Follower Image. [image] Available at: <https://www.flickr.com/photos/tinkering_studio/14794136427> [Accessed 15 June 2020].
 
 AP Archive, 2019. Moving Sculptures By A Pioneer Of Kinetic Art. [video] Available at: <https://www.youtube.com/watch?v=y-pc3sPXbfc> [Accessed 15 June 2020].
 
