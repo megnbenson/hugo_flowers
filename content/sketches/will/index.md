@@ -1,8 +1,7 @@
 +++
 image = "*.jpg"
 date = "2020-02-09"
-title = "Mixed Media Sketch"
+title = "Sketch"
 type = "gallery"
-draft = true
 +++
 
