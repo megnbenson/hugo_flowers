@@ -1,12 +1,4 @@
 +++
-image = "*.jpg"
-date = "2020-02-09"
-title = "Sketch"
-type = "gallery"
-draft = true
-+++
-
-+++
 image = "blossomBranch.png"
 date = "2020-06-21"
 title = "Blossom Branch, Degree Show Piece"

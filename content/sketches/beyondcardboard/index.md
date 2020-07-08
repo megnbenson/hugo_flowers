@@ -1,8 +1,7 @@
 +++
 image = "*.jpg"
 date = "2020-02-09"
-title = "Progress shot, for Beyond the Depths"
+title = "Acrylic Sketch"
 type = "gallery"
-draft = true
 +++
 
