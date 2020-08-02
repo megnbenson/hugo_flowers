@@ -1,3 +1,13 @@
+<head> 
+    {{ range .Site.Params.navlinks }}
+    {{ if .home }}
+    <meta http-equiv="refresh" content="0; URL={{ .url | absURL }}" />
+    {{ end }}
+    {{ end }}
+  </head>
+
+<!-- Below is old layout.html but showed latest posts quite cool
+
 {{ define "main" }}
 
 <h1>About</h1>
@@ -39,3 +49,5 @@ Meg(an Benson) is a computational artist, freshly graduated with a Digital Arts 
 </div>
 
 {{ end }}
+
+-->

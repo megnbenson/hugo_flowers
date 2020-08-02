@@ -58,10 +58,22 @@ There are a few strands of thought that play through the year:
 I have decided to present the documentation chronologically, divided by month, so that conceptual themes, material progress and design iteration can be seen to build. All pictures are taken by me unless otherwise stated.  
 
 ------------------
-{{< figure class="grid two" figcaption="BioDesign Now 2019" >}}
-  {{< img src="materialLegacy.jpg" alt="material legacy" >}}
-  {{< img src="lovelyTrash.jpg" alt="material legacy" >}}
-{{< /figure >}}
+
+<!--
+![BioDesign Now 2019][1]
+![material legacy][2]
+-->
+
+![BioDesign Now 2019][1] | ![material legacy][2]
+------------ | -------------
+<!--![BioDesign Now 2019][1] | ![material legacy][2]-->
+<!--instead of using rigure short code can use markdown + layout table-->
+
+
+[1]: materialLegacy.jpg
+[2]: lovelyTrash.jpg
+
+
 
 # **Sept 2019** 
 

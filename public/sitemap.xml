@@ -1,101 +1,675 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml">
-    
-        
-        <url>
-            <loc>megnbenson.github.io/</loc>
-            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>megnbenson.github.io/sketches/</loc>
-            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>megnbenson.github.io/sketches/warsaw-poland/</loc>
-            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>megnbenson.github.io/sketches/hel-poland-3/</loc>
-            <lastmod>2020-02-06T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>megnbenson.github.io/sketches/hel-poland-2/</loc>
-            <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>megnbenson.github.io/sketches/arizona-us/</loc>
-            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>megnbenson.github.io/sketches/chicago-us/</loc>
-            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>megnbenson.github.io/sketches/panaji-india-2/</loc>
-            <lastmod>2020-01-07T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>megnbenson.github.io/projects/flowers-final-degree-show/</loc>
-            <lastmod>2019-09-22T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>megnbenson.github.io/projects/</loc>
-            <lastmod>2019-09-22T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>megnbenson.github.io/projects/introduction/</loc>
-            <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>megnbenson.github.io/about/</loc>
-            <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>megnbenson.github.io/categories/</loc>
-        </url>
-        
-    
-        
-        <url>
-            <loc>megnbenson.github.io/tags/</loc>
-        </url>
-        
-    
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.org/portfolio/blossombranch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/beyondthedepths/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/islets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/patch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/peggy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/tryagain/</loc>
+    <lastmod>2017-08-06T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/acrylicmisc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/lastsupper/</loc>
+    <lastmod>2016-03-01T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/twittersketch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/acrylicscenes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/maria/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/clutterempty/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/panorama/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/shaders/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/iterate/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/lino/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/pencil/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/leon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/othersketches/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/oliviaprojection/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/patches/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/perlinexperiment/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/robotarm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/stickers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/sunflowers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/projects/flowers-final-degree-show/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/projects/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/acrylicornament/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/acrylicsketchtulips/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/beyondcardboard/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/beyondpaper/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/acrylicsketchchessgarden/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/acrylicsketchhome/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/acrylicsketchmeg/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/acrylicsketchphoebe/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/charcoalsunflower/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/charcoaleye/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/christmaslifedrawing/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/bristolpanorama/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/birdpatch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/blossombranch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/branchpatch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/beyondthedepthscanvas/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/clayprogress/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/clayreliefeagle/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/crouchoilmaria/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/dylan/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/etextilespatch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/faceon/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/faceonoliviaproj/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/flowerpatch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/flowerprototype/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/flowerrelief/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/flowerreliefplaster/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/foundationcharcoal/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/foundationfilter2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/foundationfilter/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/helvelinohole/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/helvesketch2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/helvesketch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/helvesketchrose/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/holidaypatch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/instagrampatch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/islets1/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/islets2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/islets3/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/islets4/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/islets5/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/islets6/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/islets7/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/islets8/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/islets9/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/islets/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/isletsballs2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/isletsballs/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/isletscarving/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/isletsfinished2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/isletsfinished/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/iteratepic/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/iteratesketch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/kandinskylastsupper/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/kandinskysketch2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/lastsupper/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/lastsupperprogress/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/lastsuppersketch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/lino2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/linocoffee/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/linocravass/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/linoholesketch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/linoparis/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/linosketch2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/linosketch3/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/linosketches/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/linosketchzoom/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/linozoom/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/mariacharcoalprogress/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/mariacoffee/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/mariaoil/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/mariaoilpastel/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/mariaphoto/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/meandappleman/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/mirrorsketch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/oilpastelmaria/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/olivia/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/oliviaprojection/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/organlunch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/pancreasbox/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/panorama/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/patchsticker/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/peggy1/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/peggygoogle/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/peggyheadclay/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/peggywet/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/perlinnoise1/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/perlinnoise2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/plasticrocks2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/plasticrocks/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/projectedbeyond/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/requiresmilkpatch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/sketchpaper/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/sticker/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/sunflowersketch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/textileolivia/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/theo/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/tribe/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/tribeparts/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/upsidedownsketch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/will/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/acrylicsketch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/acrylicsketchbreakfast/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/acrylicbum/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/acrylicme/</loc>
+    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/sketches/3dpetal/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/</loc>
+    <lastmod>2017-08-06T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/</loc>
+  </url>
+  
 </urlset>

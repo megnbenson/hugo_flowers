@@ -1,23 +1,69 @@
-baseurl = "https://megnbenson.github.io/"
+
+
+baseurl = "https://example.org/"
 title = "Meg's Portfolio"
-theme = "hugo-theme-console"
+theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
-publishDir = "megnbenson.github.io"
+# Enable comments by entering your Disqus shortname
+disqusShortname = "megfully"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-96234544-3"
 
 [params]
-  # Cutting off the page title to two chars for mobile (console-demo -> co)
-  titleCutting = true
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "Describe your website"
+  copyright = "&copy;2020 Megan Benson"
+  sidebarAbout = [
+    "I am a digital artist, creative technologist, fresh graduate, shy illustrator, messy sculptor.",
+    "Originally from Kent, currently based in London."
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "art.meganbenson@yahoo.co.uk"
+
+    # Optional Matomo analytics (formerly piwik)
+      # [params.analytics.matomo]
+      #  URL = "https://stats.example.com"
+      #  ID = "42"
+      #  # Track all subdomains with "*.example.com" (Optional)
+      #  domain = "www.example.com"
+      #  # Optional integrity check hash
+      #  hash = ""
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "portfolio/"
+  home = true
 
   [[params.navlinks]]
-  name = "about/"
+  name = "About"
   url = "about/"
 
-#posts
   [[params.navlinks]]
-  name = "projects/"
-  url = "projects/"
-  
-#photos
-  [[params.navlinks]]
-  name = "sketches/"
-  url = "sketches/"
+  name = "Get in touch"
+  url = "contact/"
+
+  [params.social]
+  facebook      = "https://www.facebook.com/mmmeggggg/"
+  # googleplus    = "full profile url in googleplus"
+  email         = "art.meganbenson@yahoo.co.uk"
+  # twitter       = "full profile url in twitter"
+  linkedin      = "https://www.linkedin.com/in/megan-benson-41b095178/"
+  # stackoverflow = "full profile url in stackoverflow"
+  instagram     = "https://www.instagram.com/megnbenson/"
+  github        = "https://github.com/megnbenson/"
+  # youtube       = "full profile url in youtube"
+  # whatsapp      = "wa.me service link"

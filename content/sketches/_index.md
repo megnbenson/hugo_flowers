@@ -4,4 +4,4 @@ type = "gallery"
 +++
 
 
-Sketches to be added soon.
+Sketches.

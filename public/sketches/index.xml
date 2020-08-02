@@ -1,68 +1,968 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Photos on Meg</title>
-    <link>megnbenson.github.io/sketches/</link>
-    <description>Recent content in Photos on Meg</description>
+    <title>Photos on Meg&#39;s Portfolio</title>
+    <link>https://example.org/sketches/</link>
+    <description>Recent content in Photos on Meg&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="megnbenson.github.io/sketches/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.org/sketches/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Acrylic Sketch</title>
+      <link>https://example.org/sketches/acrylicornament/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/acrylicornament/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acrylic Sketch</title>
+      <link>https://example.org/sketches/acrylicsketchtulips/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/acrylicsketchtulips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acrylic Sketch</title>
+      <link>https://example.org/sketches/beyondcardboard/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/beyondcardboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acrylic Sketch</title>
+      <link>https://example.org/sketches/beyondpaper/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/beyondpaper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acrylic sketch</title>
+      <link>https://example.org/sketches/acrylicsketchchessgarden/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/acrylicsketchchessgarden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acrylic sketch</title>
+      <link>https://example.org/sketches/acrylicsketchhome/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/acrylicsketchhome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acrylic sketch</title>
+      <link>https://example.org/sketches/acrylicsketchmeg/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/acrylicsketchmeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acrylic sketch</title>
+      <link>https://example.org/sketches/acrylicsketchphoebe/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/acrylicsketchphoebe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charcoal Sketch</title>
+      <link>https://example.org/sketches/charcoalsunflower/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/charcoalsunflower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charcoal sketch</title>
+      <link>https://example.org/sketches/charcoaleye/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/charcoaleye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christmas Life drawing</title>
+      <link>https://example.org/sketches/christmaslifedrawing/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/christmaslifedrawing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Painting panorama</title>
+      <link>https://example.org/sketches/bristolpanorama/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/bristolpanorama/</guid>
+      <description>When formatted, it looked like this</description>
+    </item>
+    
+    <item>
+      <title>Patch</title>
+      <link>https://example.org/sketches/birdpatch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/birdpatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patch</title>
+      <link>https://example.org/sketches/blossombranch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/blossombranch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patch</title>
+      <link>https://example.org/sketches/branchpatch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/branchpatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progress shot, for Beyond the Depths</title>
+      <link>https://example.org/sketches/beyondthedepthscanvas/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/beyondthedepthscanvas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/clayprogress/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/clayprogress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/clayreliefeagle/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/clayreliefeagle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/crouchoilmaria/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/crouchoilmaria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/dylan/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/dylan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/etextilespatch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/etextilespatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/faceon/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/faceon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/faceonoliviaproj/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/faceonoliviaproj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/flowerpatch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/flowerpatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/flowerprototype/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/flowerprototype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/flowerrelief/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/flowerrelief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/flowerreliefplaster/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/flowerreliefplaster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/foundationcharcoal/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/foundationcharcoal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/foundationfilter2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/foundationfilter2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/foundationfilter/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/foundationfilter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/helvelinohole/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/helvelinohole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/helvesketch2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/helvesketch2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/helvesketch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/helvesketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/helvesketchrose/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/helvesketchrose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/holidaypatch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/holidaypatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/instagrampatch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/instagrampatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/islets1/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/islets1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/islets2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/islets2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/islets3/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/islets3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/islets4/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/islets4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/islets5/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/islets5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/islets6/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/islets6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/islets7/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/islets7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/islets8/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/islets8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/islets9/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/islets9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/islets/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/islets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/isletsballs2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/isletsballs2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/isletsballs/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/isletsballs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/isletscarving/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/isletscarving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/isletsfinished2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/isletsfinished2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/isletsfinished/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/isletsfinished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/iteratepic/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/iteratepic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/iteratesketch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/iteratesketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/kandinskylastsupper/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/kandinskylastsupper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/kandinskysketch2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/kandinskysketch2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/lastsupper/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/lastsupper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/lastsupperprogress/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/lastsupperprogress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/lastsuppersketch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/lastsuppersketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/lino2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/lino2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/linocoffee/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/linocoffee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/linocravass/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/linocravass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/linoholesketch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/linoholesketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/linoparis/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/linoparis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/linosketch2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/linosketch2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/linosketch3/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/linosketch3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/linosketches/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/linosketches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/linosketchzoom/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/linosketchzoom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/linozoom/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/linozoom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/mariacharcoalprogress/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/mariacharcoalprogress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/mariacoffee/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/mariacoffee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/mariaoil/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/mariaoil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/mariaoilpastel/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/mariaoilpastel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/mariaphoto/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/mariaphoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/meandappleman/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/meandappleman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/mirrorsketch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/mirrorsketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/oilpastelmaria/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/oilpastelmaria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/olivia/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/olivia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/oliviaprojection/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/oliviaprojection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/organlunch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/organlunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/pancreasbox/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/pancreasbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/panorama/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/panorama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/patchsticker/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/patchsticker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/peggy1/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/peggy1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/peggygoogle/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/peggygoogle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/peggyheadclay/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/peggyheadclay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/peggywet/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/peggywet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/perlinnoise1/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/perlinnoise1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/perlinnoise2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/perlinnoise2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/plasticrocks2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/plasticrocks2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/plasticrocks/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/plasticrocks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/projectedbeyond/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/projectedbeyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/requiresmilkpatch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/requiresmilkpatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/sketchpaper/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/sketchpaper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/sticker/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/sticker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/sunflowersketch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/sunflowersketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/textileolivia/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/textileolivia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/theo/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/theo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/tribe/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/tribe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/tribeparts/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/tribeparts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/upsidedownsketch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/upsidedownsketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://example.org/sketches/will/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/will/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Warsaw, Poland</title>
-      <link>megnbenson.github.io/sketches/warsaw-poland/</link>
+      <link>https://example.org/sketches/acrylicsketch/</link>
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>megnbenson.github.io/sketches/warsaw-poland/</guid>
-      <description>Palace of Culture and Science (Polish: Pałac Kultury i Nauki), is a notable high-rise building in central Warsaw, Poland. With a total height of 237 metres (778 ft) it is the tallest building in Poland, the 5th-tallest building in the European Union (including spire) and one of the tallest on the European continent. Constructed in 1955, it houses various public and cultural institutions such as cinemas, theatres, libraries, sports clubs, university faculties and authorities of the Polish Academy of Sciences.</description>
+      <guid>https://example.org/sketches/acrylicsketch/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Hel, Poland</title>
-      <link>megnbenson.github.io/sketches/hel-poland-3/</link>
-      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Warsaw, Poland</title>
+      <link>https://example.org/sketches/acrylicsketchbreakfast/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>megnbenson.github.io/sketches/hel-poland-3/</guid>
-      <description>Hel Peninsula (Polish: Mierzeja Helska) is a 35-km-long sand bar peninsula in northern Poland separating the Bay of Puck from the open Baltic Sea. The width of the peninsula varies from approximately 300 m near Jurata, through 100 m in the most narrow part to over 3 km at the tip. Since the peninsula was formed entirely of sand, it is frequently turned into an island by winter storms. Until the 17th century the peninsula was a chain of islands that formed a strip of land only during the summer.</description>
+      <guid>https://example.org/sketches/acrylicsketchbreakfast/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Hel, Poland</title>
-      <link>megnbenson.github.io/sketches/hel-poland-2/</link>
+      <title>Acrylic Sketch</title>
+      <link>https://example.org/sketches/acrylicbum/</link>
       <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>megnbenson.github.io/sketches/hel-poland-2/</guid>
-      <description>Hel Peninsula (Polish: Mierzeja Helska) is a 35-km-long sand bar peninsula in northern Poland separating the Bay of Puck from the open Baltic Sea. The width of the peninsula varies from approximately 300 m near Jurata, through 100 m in the most narrow part to over 3 km at the tip. Since the peninsula was formed entirely of sand, it is frequently turned into an island by winter storms. Until the 17th century the peninsula was a chain of islands that formed a strip of land only during the summer.</description>
+      <guid>https://example.org/sketches/acrylicbum/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Arizona, US</title>
-      <link>megnbenson.github.io/sketches/arizona-us/</link>
-      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>megnbenson.github.io/sketches/arizona-us/</guid>
-      <description>The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).</description>
-    </item>
-    
-    <item>
-      <title>Chicago, US</title>
-      <link>megnbenson.github.io/sketches/chicago-us/</link>
-      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>megnbenson.github.io/sketches/chicago-us/</guid>
-      <description>Chicago, officially the City of Chicago, is the most populous city in the U.S. state of Illinois, and the third-most-populous city in the United States. With an estimated population of 2,705,994 (2018), it is also the most populous city in the Midwestern United States. Chicago is the county seat of Cook County, the second-most-populous county in the US, with a small portion of the northwest side of the city extending into DuPage County near O&amp;rsquo;Hare Airport.</description>
-    </item>
-    
-    <item>
-      <title>Panaji, India</title>
-      <link>megnbenson.github.io/sketches/panaji-india-2/</link>
+      <title>Acrylic Sketch</title>
+      <link>https://example.org/sketches/acrylicme/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>megnbenson.github.io/sketches/panaji-india-2/</guid>
-      <description>Panaji, formerly Panjim, is the capital of the Indian state of Goa and the headquarters of North Goa district. It lies on the banks of the Mandovi River estuary in the Ilhas de Goa sub-district (taluka). With a population of 114,759 in the metropolitan area, Panjim is Goa&amp;rsquo;s largest urban agglomeration, ahead of Margão and Vasco da Gama.</description>
+      <guid>https://example.org/sketches/acrylicme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D attempt for petals</title>
+      <link>https://example.org/sketches/3dpetal/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/sketches/3dpetal/</guid>
+      <description></description>
     </item>
     
   </channel>
