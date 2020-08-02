@@ -8,6 +8,7 @@ languageCode = "en-us"
 disqusShortname = "megfully"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-96234544-3"
+publishDir = "megnbenson.github.io"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
