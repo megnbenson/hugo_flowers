@@ -759,7 +759,7 @@ future ideas for these flowers:
 Photosynthesising flowers, with a solar panel to power the movement
 Moving with data, organic movements to give visual performance changes
 
-Mock up for bigger tree:
+Mock up for bigger tree::
 <!--
 {{< figure class="grid two" figcaption="ideation" >}}
   {{< img src="mockTree.png" alt="tree idea" >}}
