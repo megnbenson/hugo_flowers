@@ -112,11 +112,13 @@ _Creative Research_ Simultaneously to the flower prototyping, I started work on 
 
   {{< youtube y-pc3sPXbfc >}}
   
+<!--
 {{< figure class="grid two" figcaption="takis" >}}
   {{< img src="Takis3.jpg" alt="Takis at Tate" >}}
   {{< img src="Takis5.jpg" alt="Takis at Tate" >}}
   {{< img src="Takis3.jpg" alt="Takis at Tate" >}}
 {{< /figure >}}
+-->
 
 ![Takis][9] | ![Takis][10]
 ------------ | -------------
@@ -129,11 +131,13 @@ _Creative Research_ Simultaneously to the flower prototyping, I started work on 
 
 _Technical research, Aesthetic Choices_ This exhibition led to planning a sculpture in response, a person in reflection, tapping an earring. A small gesture, a tic, an action occurring when the brain is too occupied to keep a real check of the physical. I explored terracotta air dry clay for this prototype with thoughts that I would create the sculpture in real kiln clay, taking aesthetic inspiration from Takis' sculptures above.
 
+<!--
 {{< figure class="grid two" figcaption="initial Man prototypes" >}}
   {{< img src="initialMan1.jpg" alt="initialMan" >}}
   {{< img src="initialMan2.jpg" alt="initialMan" >}}
   {{< img src="initialMan4.jpg" alt="initialMan" >}}
 {{< /figure >}}
+-->
 
 ![initial Man prototypes][11] | ![initial Man prototypes][12] | ![initial Man prototypes][13]
 ------------ | ------------- | -------------
@@ -146,6 +150,7 @@ _Technical research, Aesthetic Choices_ This exhibition led to planning a sculpt
 
 _Technical research, Planning_ Flower progress was slow as my previous design was very clunky, this lead to initial CAM follower Automaton [research](https://www.flickr.com/photos/tinkering_studio/14794136427).
 
+<!--
 {{< figure class="grid two" figcaption="further paper flower prototypes" >}}
   {{< img src="flowerPrototypeNotes1.jpg" alt="flowerPrototypeNotes" >}}
   {{< img src="flowerPrototypeNotes2.jpg" alt="flowerPrototypeNotes" >}}
@@ -154,6 +159,7 @@ _Technical research, Planning_ Flower progress was slow as my previous design wa
   {{< img src="flowerPrototypeNotes5.jpg" alt="flowerPrototypeNotes" >}}
   {{< img src="flowerPrototypeNotes6.jpg" alt="flowerPrototypeNotes" >}}
 {{< /figure >}}
+-->
 
 ![further paper flower prototypes][14] | ![further paper flower prototypes][15] | ![further paper flower prototypes][16] 
 ------------ | ------------- | -------------
@@ -172,12 +178,14 @@ _Technical research, Planning_ Flower progress was slow as my previous design wa
 
 _Creative research_ I also attended the William Blake exhibition, at the [tate britain](https://www.tate.org.uk/whats-on/tate-britain/exhibition/william-blake-artist). Blake's work was captivating in a different way to Takis, each painting or print was often filled with anguish, the colour or forms splashing with emotion. Here offered inspiration for linos that would manifest themselves during lockdown as a relief from uni work.
 
+<!--
 
 {{< figure class="grid two" figcaption="William Blake exhibition" >}}
   {{< img src="williamBlake1.jpg" alt="williamBlake" >}}
   {{< img src="williamBlake2.jpg" alt="williamBlake" >}}
   {{< img src="williamBlake3.jpg" alt="williamBlake" >}}
 {{< /figure >}}
+-->
 
 ![William Blake exhibition][20] | ![William Blake exhibition][21] | ![William Blake exhibition][22] 
 ------------ | ------------- | -------------
@@ -190,11 +198,13 @@ _Creative research_ I also attended the William Blake exhibition, at the [tate b
 
 _Technical research, development_ Using a makeshift cam-follower automaton and a tenuous LED circuit, further development, using malleable thick pipe cleaners instead of jewellery wire.[blog post link to video of it working](https://megs2020degreeshowblog.tumblr.com/post/620994006672900096) - I quite like the manual interaction that you have with an automaton, there is a certain nuance to it where the user can feel the aches and bumps of the turning axel
 
+<!--
 {{< figure class="grid two" figcaption="further flower prototypes" >}}
   {{< img src="pipecleanerPrototype1.jpg" alt="pipecleanerPrototype" >}}
   {{< img src="pipecleanerPrototype2.jpg" alt="pipecleanerPrototype" >}}
   {{< img src="pipecleanerPrototype3.jpg" alt="pipecleanerPrototype" >}}
 {{< /figure >}}
+-->
 
 ![further flower prototypes][23] | ![further flower prototypes][24] | ![further flower prototypes][25] 
 ------------ | ------------- | -------------
@@ -207,11 +217,13 @@ _Technical research, development_ Using a makeshift cam-follower automaton and a
 # **Nov 2019**
 _Technical research, development, reflection_  To mark the beginning of a new month, I did [some reflections](https://megs2020degreeshowblog.tumblr.com/post/188652475973/questions-to-prompt-and-guide-flower-and-tapping) for the two pieces. Then material tests for petals of the flower. After looking at [this video](https://www.youtube.com/watch?v=47ILIYV9E3A) I decided to do some PVA tests, they did not work very well. At all. 
 
+<!--
 {{< figure class="grid two" figcaption="material testing" >}}
   {{< img src="PVAtests2.jpg" alt="PVAtests" >}}
   {{< img src="PVAtests4.jpg" alt="PVAtests" >}}
   {{< img src="PVAtests5.jpg" alt="PVAtests" >}}
 {{< /figure >}}
+-->
 
 ![material testing][26] | ![material testing][27] | ![material testing][28] 
 ------------ | ------------- | -------------
@@ -223,11 +235,13 @@ _Technical research, development, reflection_  To mark the beginning of a new mo
 
 _Technical research, planning_ Further planning and iterations of clay and flower. Following [this tutorial](https://www.bc-robotics.com/tutorials/controlling-a-solenoid-valve-with-arduino/?fbclid=IwAR2gXahgHDqbx2eDo6tCJ_JEH_WjZVpMrnvKmL1IzZ3yBoPMhBqtuKJxypk) to try and get some electromagnets solenoids working after talking to Rob in the lab - [blog post here.](https://megs2020degreeshowblog.tumblr.com/post/188744696992/tapping-man-sculpture-update-yesterday-bumped)
 
+<!--
 {{< figure class="grid two" figcaption="planning and iterating" >}}
   {{< img src="magnetTestNotes2.jpg" alt="magnetTestNotes" >}}
   {{< img src="magnetTestNotes1.jpg" alt="magnetTestNotes" >}}
   {{< img src="magnetTestNotes3.jpg" alt="magnetTestNotes" >}}
 {{< /figure >}}
+-->
 
 ![planning and iterating][29] | ![planning and iterating][30] | ![planning and iterating][31] 
 ------------ | ------------- | -------------
@@ -239,10 +253,12 @@ _Technical research, planning_ Further planning and iterations of clay and flowe
 
 _Technical research, development_ following more tutorials for the magnets - I was struggling with the reversing polarities - as I wanted the finger to be repelled as well as attracted back to tap - and the strength of the electromagnets themselves were proving troublesome. [Blog Post](https://megs2020degreeshowblog.tumblr.com/post/188902627583/art-meganbenson-saw-this-video-below-followed) to show the motors with different polarities (eventually it turned out that the solenoids don't have a reverse). I also used the lasercutter to cut out a case for the cam to make it look cleaner - [blog post for video of that](https://megs2020degreeshowblog.tumblr.com/post/188902640633/art-meganbenson-flower-progress-is-going-swell). 
 
+<!--
 {{< figure class="grid two" figcaption="material development" >}}
   {{< img src="paperMacheDev1.jpg" alt="paper Mache" >}}
   {{< img src="paperMacheDev2.jpg" alt="paper Mache" >}}
 {{< /figure >}}
+-->
 
 ![material development][32] | ![material development][33]  
 ------------ | -------------
@@ -255,11 +271,13 @@ _Technical research, development_ following more tutorials for the magnets - I w
 _Creative Research, technical research_ December was full steam ahead for dissertation, conceptually my head was deep in the work of [**Mierle Laderman Ukeles**](https://www.nytimes.com/2016/09/22/arts/design/mierle-laderman-ukeles-new-york-city-sanitation-department.html). Before breaking for christmas however, my lab time was tackling electromagnets. Blog posts [here](https://megs2020degreeshowblog.tumblr.com/post/189188620643/cant-work-it-out-got-two-electomagnets-working), [here, (for video of motors)](https://megs2020degreeshowblog.tumblr.com/post/189571564376/motor-and-magnetic-led-motor-to-show-when-magnet) and [here, (for more video of motors)](https://megs2020degreeshowblog.tumblr.com/post/189571579020/motors-alternating-from-last-post), I was mainly frustrated at attraction but [lack of repelling](https://megs2020degreeshowblog.tumblr.com/post/189571672363/update-with-electromagnet-circuit-got-a-better).
 *Ukeles* was a major influence conceptually for the finished flowers piece, her work delved into the value and appreciation we give to maintenance workers, and how they are brushed to the sidelines of society when really maintenance should be celebrated. These thoughts continued to mull long after the dissertation was submitted. See references Feldman, 2008, for journal below. More Conceptual progression in [this blog post](https://megs2020degreeshowblog.tumblr.com/post/189571696073/etherbox-meeting-12-attempted-to-set-up-a-host), after an Etherstrike meeting.
 
+<!--
 {{< figure class="grid two" figcaption="Mierle Laderman Ukeles" >}}
   {{< img src="ukeles3.jpg" alt="ukeles" >}}
   {{< img src="ukeles2.jpg" alt="ukeles" >}}
   {{< img src="ukeles1.jpg" alt="ukeles" >}}
 {{< /figure >}}
+-->
 
 ![Mierle Laderman Ukeles][34] | ![Mierle Laderman Ukeles][35] | ![Mierle Laderman Ukeles][36]  
 ------------ | ------------- | -------------
@@ -270,11 +288,13 @@ _Creative Research, technical research_ December was full steam ahead for disser
 
 _creative research_ I also attended the Royal Academy's [exhibition](https://www.royalacademy.org.uk/exhibition/antony-gormley) for Anthony Gormley - [reflections here](https://megs2020degreeshowblog.tumblr.com/post/189571628663/antony-gormley-exhibition-royal-academy), more photos [here](https://megs2020degreeshowblog.tumblr.com/post/189571640423/antony-gormley-royal-academy-of-arts-2019-pt2). My reflections on Gormley notes that mechanics and technicalities are not essential to a piece - that the viewer experiences with all five senses, and often those that are not sight are overlooked (pardon the pun).
 
+<!--
 {{< figure class="grid two" figcaption="Anthony Gormley" >}}
   {{< img src="AnthonyGormley1.jpg" alt="AnthonyGormley" >}}
   {{< img src="AnthonyGormley2.jpg" alt="AnthonyGormley" >}}
   {{< img src="AnthonyGormley3.jpg" alt="AnthonyGormley" >}}
 {{< /figure >}}
+-->
 
 ![Anthony Gormley][37] | ![Anthony Gormley][38] | ![Anthony Gormley][39]  
 ------------ | ------------- | -------------
@@ -285,6 +305,7 @@ _creative research_ I also attended the Royal Academy's [exhibition](https://www
 
 _creative research, material playing_ December was also a month of exploring and having a creative break. I attended a [workshop](https://www.facebook.com/events/1324614811054231/) run by Ayesha Tan Jones, after stumbling onto a gallery [private view](https://www.facebook.com/events/433779590590935/).
 
+<!--
 {{< figure class="grid two" figcaption="Fertile souls / Resistance as Ritual" >}}
   {{< img src="OliviaWorkshop1.jpg" alt="Can't find the name of the piece, but it was made of polystyrene" >}}
   {{< img src="OliviaWorkshop2.jpg" alt="Fertile souls " >}}
@@ -293,6 +314,7 @@ _creative research, material playing_ December was also a month of exploring and
   {{< img src="clayHelveBreaks2.jpg" alt="Clay" >}}
   {{< img src="clayHelveBreaks3.jpg" alt="Helve Poster" >}}
 {{< /figure >}}
+-->
 
 ![Fertile souls / Resistance as Ritual][40] | ![ Fertile souls][41] | ![Fertile souls][42]  
 
@@ -305,6 +327,7 @@ _creative research, material playing_ December was also a month of exploring and
 
 
 _reflection_ Also created a piece for a popup show on Personal Development, that ultimately was postponed, forever. This work was playing with development and how you measure it - a reflection of my own development for the dissertation was the ever increasing number of postit notes everywhere. [blog post on it](https://megs2020degreeshowblog.tumblr.com/post/190409328013/art-meganbenson-to-do-list-piece-development). My intention for the piece was for a postit to be projected onto a postit, that visitors could add their own to-do's for. These would then refresh and shuffle through a collective to-do list.
+<!--
 
 {{< figure class="grid two" figcaption="Personal Development" >}}
   {{< img src="postits1.jpg" alt="Personal Development" >}}
@@ -314,6 +337,7 @@ _reflection_ Also created a piece for a popup show on Personal Development, that
   {{< img src="postits5.jpg" alt="Personal Development" >}}
   
 {{< /figure >}}
+-->
 
 ![Personal Development][43] | ![ Personal Development][44] | ![Personal Development][45]  
 ------------ | ------------- | -------------
@@ -335,11 +359,13 @@ _Creative Research_ January oh sweet unknowing jan - filled with many more outin
 
 * South London Gallery, where two pieces caught my eye [Annie Mackinnon - Compost Daddy - 2018](https://megs2020degreeshowblog.tumblr.com/post/190550064923/art-meganbenson-annie-mackinnon-compost-daddy) (below), and [Jonas Pequeno - Timeliner 2018](https://megs2020degreeshowblog.tumblr.com/post/190550069128/jonas-pequeno-timeliner-2018-south-london). 
 
+<!--
 {{< figure class="grid two" figcaption="Compost Daddy" >}}
   {{< img src="trashFashion3.jpg" alt="Compost Daddy" >}}
   {{< img src="trashFashion1.jpg" alt="Compost Daddy" >}}
   {{< img src="trashFashion2.jpg" alt="Compost Daddy" >}}
 {{< /figure >}}
+-->
 
 ![Compost Daddy][48] | ![ Compost Daddy][49] | ![  Compost Daddy][50]  
 ------------ | ------------- | -------------
@@ -366,12 +392,13 @@ _Creative Research_ led me to the 5th Anniversary year for Novelty Automation, a
 
 
   {{< youtube 6kpni15-cU4 >}}
-
+<!--
 {{< figure class="grid two" figcaption="Novelty Automation, 5th Anniversary" >}}
   {{< img src="NoveltyAutomation1.jpg" alt="NoveltyAutomation" >}}
   {{< img src="NoveltyAutomation2.jpg" alt="NoveltyAutomation " >}}
   {{< img src="NoveltyAutomation3.jpg" alt="NoveltyAutomation " >}}
 {{< /figure >}}
+-->
 
 ![Novelty Automation, 5th Anniversary][51] | ![Novelty Automation][52] | ![Novelty Automation][53]  
 ------------ | ------------- | -------------
@@ -388,11 +415,13 @@ Some _technical research_ [here](https://megs2020degreeshowblog.tumblr.com/post/
 
 Flower development and _iteration_. The final stage of this particular prototype ended badly, painting the paper mache petals was a poor decision (see below), but it did lead me to do some [more](https://megs2020degreeshowblog.tumblr.com/post/190788283883/mechanical-flower-egs) [and](https://megs2020degreeshowblog.tumblr.com/post/190790469313/more-trees-installations-blossom-timelapses) [more](https://megs2020degreeshowblog.tumblr.com/post/190788794153/big-tree-sculpture-egs) [research](https://megs2020degreeshowblog.tumblr.com/post/190788405953/more-flower-egs) into making a better, more functional and prettier flower to which I found the tutorial that would be tweaked for my final piece, thank you Jiri Praus (see video below).
 
+<!--
 {{< figure class="grid two" figcaption="bad flowers" >}}
   {{< img src="badFlowers1.jpg" alt="Flowers" >}}
   {{< img src="badFlowers2.jpg" alt="Flowers " >}}
   {{< img src="badFlowers3.jpg" alt="Flowers " >}}
 {{< /figure >}}
+-->
 
 ![bad flowers][54] | ![Flowers][55] | ![Flowers][56]  
 ------------ | ------------- | -------------
@@ -406,6 +435,7 @@ Flower development and _iteration_. The final stage of this particular prototype
 _conceptual and creative research_ Somerset House 24/7 [Exhibition](https://www.somersethouse.org.uk/whats-on/247) on time and modern life, post [here](https://megs2020degreeshowblog.tumblr.com/post/612597454750236672/pics-from-the-247-exhibition-at-somerset-house). The piece that stood out to me was Marcus Coates, Self Portrait as Time, 2016, ([here](https://megs2020degreeshowblog.tumblr.com/post/621071943009992705/art-meganbenson-somerset-house-247-exhibition)) he spends 12 hours following the second hand with his finger, giving the illusion that he is controlling time. Time is really interesting, in control and order. It crops up again now, as I collate this documentation in June, in lockdown, our perception of time has gone awry, physical displacement and a quick recalibration to the local, all normal timetabled structure out the window, leaving only endless present. It is long and illuminating, and simultaneously as swift as a tablecloth pulled off by a magician. [Time is also used heavily in prisons](https://www.youtube.com/watch?v=smCA9UzDNpA), we no longer punish with physical beatings (well, not sentenced to them anyway), instead the worse the crime, the more time in a cage. Mentally, ex-convicts speak of having to take control of their own time as a method of survival.
 
 
+<!--
 {{< figure class="grid two" figcaption="Somerset House, 24/7" >}}
   {{< img src="247exhib1.jpg" alt="Portrait as Time" >}}
   {{< img src="247exhib2.jpg" alt="Portrait as Time" >}}
@@ -414,6 +444,7 @@ _conceptual and creative research_ Somerset House 24/7 [Exhibition](https://www.
   {{< img src="247exhib5.jpg" alt="Dream Maps" >}}
   {{< img src="247exhib6.jpg" alt="Real Time" >}}
 {{< /figure >}}
+-->
 
 ![Portrait as Time][57] | ![Portrait as Time][58] | ![Mechanical Bird][59]  
 ------------ | ------------- | -------------
@@ -432,11 +463,13 @@ __Flower Progress, wire protyping two:__
 
 _technical and creative research_ I started following Prous' tutorial. Lots of trial and error, turns out using heat shrink tubing instead of brass tubing is not so great when soldering wire flowers together. blog post [here](https://megs2020degreeshowblog.tumblr.com/post/612597566967808000/flower-development). 
 
+<!--
 {{< figure class="grid two" figcaption="Wire Flower Progress, Prototyping 2" >}}
   {{< img src="wireFlowerProg1.jpg" alt="Wire Flowers" >}}
   {{< img src="wireFlowerProg2.jpg" alt="Wire Flowers" >}}
   {{< img src="wireFlowerProg3.jpg" alt="Wire Flowers" >}}
 {{< /figure >}}
+-->
 
 ![bad flowers][63] | ![Flowers][64] | ![Flowers][65]  
 ------------ | ------------- | -------------
@@ -449,6 +482,7 @@ _technical and creative research_ I started following Prous' tutorial. Lots of t
 
 _technical and creative research_ Lots of Progress, with the help of Atau and Pete, technical research on cogs found [here](https://megs2020degreeshowblog.tumblr.com/post/190931271848/gear-development). lab progress 3D printing [here](https://megs2020degreeshowblog.tumblr.com/post/612598701619396608/flower-progress-still-prototyping-it-to-make-mass)
 
+<!--
 {{< figure class="grid two" figcaption="Wire Flower Progress, Prototyping 2" >}}
   {{< img src="wireProgCog1.jpg" alt="Wire Flowers" >}}
   {{< img src="wireProgCog2.jpg" alt="Wire Flowers" >}}
@@ -460,6 +494,7 @@ _technical and creative research_ Lots of Progress, with the help of Atau and Pe
   {{< img src="wireProgCog6.jpg" alt="Wire Flowers" >}}
   {{< img src="wireProgCog9.jpg" alt="Wire Flowers" >}}
 {{< /figure >}}
+-->
 
 ![Wire Flowers][66] | ![Wire Flowers][67] | ![Wire Flowers][68]
 ------------ | ------------- | -------------
@@ -484,11 +519,13 @@ I then lost my bag, with my laptop. A slight hiccup to it all, but luckily most 
 [And then the lab closed.](https://megs2020degreeshowblog.tumblr.com/post/613387042600140800/lots-of-change-in-these-recent-weeks-relocated)
 Reflections over lockdown and loss of Degree show [here](https://megs2020degreeshowblog.tumblr.com/post/613474912147046400/loss-of-degree-show-and-art-away-from-the-gallery)
 
+<!--
 {{< figure class="grid two" figcaption="Lock Down, Lab Closed" >}}
   {{< img src="lockdown1.jpg" alt="Wire Flowers" >}}
   {{< img src="lockdown2.jpg" alt="Wire Flowers" >}}
   {{< img src="lockdown3.jpg" alt="Wire Flowers" >}}
 {{< /figure >}}
+-->
 
 
 <!--
@@ -511,11 +548,13 @@ April was a blur, quarantined with family, adjusting to them and a slower pace o
 # **May 2020** 
 
 May found more routines, and consisted of the Arebyte residency [hotting up](https://megs2020degreeshowblog.tumblr.com/post/618552932762304512/wordpress-and-xampp-trials), lots of plastic [trials](https://megs2020degreeshowblog.tumblr.com/post/618582602696228864/current-workings) and conceptual progress for the flower looking at materiality and decay artists, blog post [here](https://megs2020degreeshowblog.tumblr.com/post/619723744065241088/some-undeveloped-brainstorms).
+<!--
 {{< figure class="grid two" figcaption="bioplastic" >}}
   {{< img src="bioplastic1.jpg" alt="bioplastic" >}}
   {{< img src="bioplastic2.jpg" alt="bioplastic" >}}
   {{< img src="bioplastic3.jpg" alt="bioplastic" >}}
 {{< /figure >}}
+-->
 
 ![bioplastic][75] | ![bioplastic][76] | ![bioplastic][77]  
 ------------ | ------------- | -------------
@@ -529,11 +568,13 @@ Mechanical _techical_ research - update progress here, with [mechanical flowers 
 May also brought  opportunity to co-host an artist Q&A and [talk](https://www.gold.ac.uk/calendar/?id=13280)! Pushing myself out of my comfort zone massively - talking to lovely artists Loren Britton and Isabel Paehr about their duo project [MELTIONARY](http://meltionary.com/), looking at melting as a way of progressing, offering it as an alternative to deconstructing and starting a new, melting suggests a merging, squishing, evolving process, matter turning to different states with pressure and heat. They had a lot of impact to my musings.
 
 Plastic tests
+<!--
 {{< figure class="grid two" figcaption="meltingPlastic" >}}
   {{< img src="meltingPlastic1.jpg" alt="meltingPlastic" >}}
   {{< img src="meltingPlastic2.jpg" alt="meltingPlastic" >}}
   {{< img src="meltingPlastic3.jpg" alt="meltingPlastic" >}}
 {{< /figure >}}
+-->
 
 ![meltingPlastic][78] | ![meltingPlastic][79] | ![meltingPlastic][80]  
 ------------ | ------------- | -------------
@@ -543,6 +584,7 @@ Plastic tests
 [80]: meltingPlastic3.jpg
 
 Paper Clay
+<!--
 {{< figure class="grid two" figcaption="paper Clay" >}}
   {{< img src="paperClay1.jpg" alt="paperClay" >}}
   {{< img src="paperClay2.jpg" alt="paperClay" >}}
@@ -551,6 +593,7 @@ Paper Clay
   {{< img src="moreClayProgress2.jpg" alt="paperClay" >}}
   {{< img src="moreClayProgress3.jpg" alt="paperClay" >}}
 {{< /figure >}}
+-->
 
 ![paper Clay][81] | ![paper Clay][82] | ![paper Clay][83] 
 ------------ | ------------- | -------------
@@ -567,11 +610,13 @@ Paper Clay
 
 
 Stepper Motor, video of the stepper motor faltering [here](https://megs2020degreeshowblog.tumblr.com/post/621087358913216512/stepper-motor-not-working-very-well-not-sure-why). I was advised that stepper motor would be better and more accurate, but because of the delicacy of the flowers and the size, it was a bit too clunky and loud, so I switched back to a normal servo.
+<!--
 {{< figure class="grid two" figcaption="stepper Motor" >}}
   {{< img src="stepperMotor1.jpg" alt="stepperMotor" >}}
   {{< img src="stepperMotor2.jpg" alt="stepperMotor" >}}
 
 {{< /figure >}}
+-->
 
 ![paper Clay][87] | ![paper Clay][88]
 ------------ | ------------- 
@@ -581,11 +626,13 @@ Stepper Motor, video of the stepper motor faltering [here](https://megs2020degre
 
 
 Paper Clay and plastic tests - the lack of lab and thoughts on materiality and plastic in particular, brought about quite a few experiments for melting, ironing, molding plastic packaging and paper mulchy clay. This was partly to see if I could make more cogs without a 3D printer - turns out I couldn't (alhtough I havn't given up on this line of thought).
+<!--
 {{< figure class="grid two" figcaption="Plastic" >}}
   {{< img src="ironPlastic1.jpg" alt="ironing PLastic" >}}
   {{< img src="ironPlastic2.jpg" alt="ironing PLastic" >}}
   {{< img src="ironPlastic3.jpg" alt="ironing PLastic" >}}
 {{< /figure >}}
+-->
 
 ![ironing Plastic][89] | ![Plastic][90] | ![Plastic][91]  
 ------------ | ------------- | -------------
@@ -596,21 +643,21 @@ Paper Clay and plastic tests - the lack of lab and thoughts on materiality and p
 
 FLOWER DEVELOPMENT [here](https://megs2020degreeshowblog.tumblr.com/post/621090047866896384/two-flowers-working). Masking tape and cardboard were the go to materials for structures initially. Close up of cogs working [here](https://megs2020degreeshowblog.tumblr.com/post/621090246695796736/close-up-of-cogs-working)
 
-{{< figure class="grid two" figcaption="Flower development" >}}
 <!--
+{{< figure class="grid two" figcaption="Flower development" >}}
   {{< img src="flowerProgBedroom1.jpg" alt="flower development" >}}
   {{< img src="flowerProgBedroom2.jpg" alt="flower development" >}}
--->
   {{< img src="flowerProgOutside1.jpg" alt="flower development" >}}
   {{< img src="flowerProgBedroom3.jpg" alt="flower development" >}}
 
-<!--  {{< img src="flowerProgOutside2.jpg" alt="flower development" >}}-->
+  {{< img src="flowerProgOutside2.jpg" alt="flower development" >}}
   {{< img src="flowerProgOutside3.jpg" alt="flower development" >}}
   {{< img src="FlowerSketchesBench1.jpg" alt="flower development" >}}
 
   {{< img src="FlowerSketchesBench4.jpg" alt="flower development" >}}
     {{< img src="FlowerSketchesBench2.jpg" alt="flower development" >}}
 {{< /figure >}}
+-->
 
 ![ironing Plastic][92] | ![Plastic][93] | ![Plastic][94]  
 ------------ | ------------- | -------------
@@ -632,12 +679,13 @@ _technical research, creative development_ I tinkered with my technique for crea
 _Planning and iterating_ around structural ideas, due to lack of scalability I thought that having a hand to hold the flowers would be interesting, would also potentially give more human input into the composition, but it didn't look great and the conceptual development wasn't very strong so I scrapped it.
 I also went through some trials around making molds for new cogs and teeth racks but they did not work.
 
+<!--
 {{< figure class="grid two" figcaption="Clay Hand idea iteration" >}}
   {{< img src="clayFailHand1.jpg" alt="flower development" >}}
   {{< img src="FlowerSketchesBench3.jpg" alt="flower development" >}}
   {{< img src="clayFailHand3.jpg" alt="flower development" >}}
-
 {{< /figure >}}
+-->
 
 ![Clay Hand idea iteration][98] | ![Clay Hand idea iteration][99] | ![Clay Hand idea iteration][100]  
 ------------ | ------------- | -------------
@@ -646,12 +694,13 @@ I also went through some trials around making molds for new cogs and teeth racks
 [99]: flowerProgBedroom3.jpg
 [100]: clayFailHand3.jpg
 
+<!--
 {{< figure class="grid two" figcaption="Ironing Plastic iteration 3" >}}
   {{< img src="ironPlasticWire1.jpg" alt="flower development" >}}
   {{< img src="ironPlasticWire2.jpg" alt="flower development" >}}
   {{< img src="ironPlasticWire3.jpg" alt="flower development" >}}
-
 {{< /figure >}}
+-->
 
 ![plastic][101] | ![Plastic][102] | ![Plastic][103]  
 ------------ | ------------- | -------------
@@ -663,12 +712,13 @@ I also went through some trials around making molds for new cogs and teeth racks
 Development, Whittling branches [here.](https://megs2020degreeshowblog.tumblr.com/post/621090979408216064/trying-to-add-wooden-structure-to-them-and-make-it)
 Notes on talking to Atau and April, with Mehroz and Rob [here](https://megs2020degreeshowblog.tumblr.com/post/621352897116012544/notes-from-atau-and-aprils-session-regarding)
 
+<!--
 {{< figure class="grid two" figcaption="Building the piece, development" >}}
   {{< img src="moreCogDesigns1.jpg" alt="flower development" >}}
   {{< img src="moreCogDesigns2.jpg" alt="flower development" >}}
   {{< img src="moreCogDesigns3.jpg" alt="flower development" >}}
-
 {{< /figure >}}
+-->
 
 ![flower development][104] | ![flower development][105] | ![flower development][106]  
 
@@ -681,12 +731,13 @@ After a meeting with Johanna and Helen, it was suggested that I should use real 
 Also was given many good artist research points, blog post on that [here](https://megs2020degreeshowblog.tumblr.com/post/621352419446718464/artist-research). That day I went to my local park adn picked up sticks.
 Video of flower progress [here](https://megs2020degreeshowblog.tumblr.com/post/621348168447197184/video-of-it-close-up-very-pleased-that-the-servo)
 
+<!--
 {{< figure class="grid two" figcaption="Building the piece, development" >}}
   {{< img src="buildingFinal1.jpg" alt="flower development" >}}
   {{< img src="buildingFinal2.jpg" alt="flower development" >}}
   {{< img src="buildingFinal3.jpg" alt="flower development" >}}
-
 {{< /figure >}}
+-->
 
 ![flower development][107] | ![flower development][108] | ![flower development][109]  
 
@@ -709,9 +760,11 @@ Photosynthesising flowers, with a solar panel to power the movement
 Moving with data, organic movements to give visual performance changes
 
 Mock up for bigger tree:
+<!--
 {{< figure class="grid two" figcaption="ideation" >}}
   {{< img src="mockTree.png" alt="tree idea" >}}
 {{< /figure >}}
+-->
 
 ![Tree idea][110] 
 
