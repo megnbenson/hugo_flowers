@@ -5,7 +5,7 @@ image = "static/img/portfolio/Foundation/foundation.jpg"
 showonlyimage = true
 date = "2017-08-06T20:23:59+05:30"
 title = "Try Again, 2017"
-weight = 4
+weight = 2
 +++
 
 Try Again, an interactive wall, looking into hand gestures and communication while exploring the arduino and basic electronics. Final Piece for Art Foundation at UCA Farnham.

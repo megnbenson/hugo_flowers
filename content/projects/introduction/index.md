@@ -1,6 +1,6 @@
 +++
-title = "example project"
-date = "2019-07-01"
+title = "example Project"
+date = "2016-07-01"
 draft = true
 +++
 

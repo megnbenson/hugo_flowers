@@ -1,53 +1,49 @@
-<head> 
-    {{ range .Site.Params.navlinks }}
-    {{ if .home }}
-    <meta http-equiv="refresh" content="0; URL={{ .url | absURL }}" />
-    {{ end }}
-    {{ end }}
-  </head>
-
-<!-- Below is old layout.html but showed latest posts quite cool
 
 {{ define "main" }}
+    <main aria-role="main">
+      <header class="homepage-header">
+        <h1>{{.Title}}</h1>
+        {{ with .Params.subtitle }}
+        <span class="subtitle">{{.}}</span>
+        {{ end }}
+      </header>
+      <div class="homepage-content">
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        {{.Content}}
+      </div>
+      <div>
+        {{ range first 10 .Site.RegularPages }}
+            {{ .Render "summary"}}
+        {{ end }}
+      </div>
+       <!--main flower animation bg-->
+    <div class="bgFlower">
+        <img src="imgs/SVG/branchAsset%2012.svg" class="bgFlower bgBranchL">
+        <img src="imgs/SVG/branchAsset%2013.svg" class="bgFlower bgBranchR">
+        <img src="imgs/SVG/branchAsset%2014.svg" class="bgFlower bgBranchMain">
+        <img src="imgs/SVG/cogAsset%2017.svg" class="bgFlower bgCog">
+        <img src="imgs/SVG/cogAsset%2018.svg" class="bgFlower bgCogR">
+        <img src="imgs/SVG/teethAsset%2015.svg" class="bgFlower bgTeethL">
+        <img src="imgs/SVG/teethAsset%2016.svg" class="bgFlower bgTeethR">
+        <!--    <div style="width:50px;height:50px;border:1px solid red;left:25%; top:38%; z-index: 3" class="bgFlower"></div>-->
+        <img src="imgs/SVG/middleFlowerAsset%2019.svg" class="bgFlower midFlLeft">
+        <img src="imgs/SVG/middleFlowerAsset%2020.svg" class="bgFlower midFlLeft">
+        <img src="imgs/SVG/middleFlowerAsset%2021.svg" class="bgFlower midFlRight">
+        <img src="imgs/SVG/middleFlowerAsset%2022.svg" class="bgFlower midFlRight">
 
-<h1>About</h1>
+        <img src="imgs/SVG/rightFlowerAsset%2023.svg" class="bgFlower midFlLeft" style="transform-origin: 68% 60% ">
+        <img src="imgs/SVG/rightFlowerAsset%2024.svg" class="bgFlower midFlLeft">
+        <img src="imgs/SVG/rightFlowerAsset%2025.svg" class="bgFlower midFlRight" style="transform-origin: 75% 60% ">
+        <img src="imgs/SVG/rightFlowerAsset%2026.svg" class="bgFlower midFlRight">
+        <img src="imgs/SVG/leftflower.svg" class="bgFlower leftFlower">
+    </div>
+    </main>
+    
+        <!-- partial -->
+    <script src='https://unpkg.com/aos@2.3.0/dist/aos.js'></script>
+    <script src="./script.js"></script>
+        <link rel="stylesheet" href="style.css">
 
-<p>
-Meg(an Benson) is a computational artist, freshly graduated with a Digital Arts Computing BSc.
-     <a href="about/">(more)</a>
-</p>
-<br/>
-
-<h1>Latest projects</h1>
-
-<div class="posts-list">
-{{ with .Site.GetPage "/projects" }}
-    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
-        <div class="post">
-            <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>    
-            <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
-            {{ .Summary }}
-        </div>    
-    {{ end }}
 {{ end }}
-</div>
 
-<h1>Latest sketches</h1>
 
-<div class="image-grid">
-{{ with .Site.GetPage "/sketches" }}
-    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
-        <a href="{{ .Permalink }}" title="{{ .Title }}">
-        {{ $image := .Page.Resources.GetMatch .Params.image }}
-        {{ with $image }}
-            {{ $thumb := .Resize "400x" }}
-            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
-        {{end}}
-        </a>
-    {{ end }}
-{{ end }}
-</div>
-
-{{ end }}
-
--->
