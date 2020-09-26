@@ -1,5 +1,5 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
+date = "2020-09-026T21:05:33+05:30"
 title = "About"
 +++
 
@@ -7,7 +7,7 @@ title = "About"
 Computational Artist 
 
 ####
-Find me on instagram [here](https://www.instagram.com/megnbenson/)
+<!--Find me on instagram [here](https://www.instagram.com/megnbenson/)-->
 ![This is me][1]
 
 [1]: /static/img/me2.jpg
