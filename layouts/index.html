@@ -2,7 +2,7 @@
 {{ define "main" }}
     <main aria-role="main">
       <header class="homepage-header">
-        <h1>{{.Title}}</h1>
+<!--        <h1>{{.Title}}</h1>-->
         {{ with .Params.subtitle }}
         <span class="subtitle">{{.}}</span>
         {{ end }}
@@ -16,6 +16,7 @@
             {{ .Render "summary"}}
         {{ end }}
       </div>
+      {{ partial "mobile_nav_toggle.html" . }}
        <!--main flower animation bg-->
     <div class="bgFlower">
         <img src="imgs/SVG/branchAsset%2012.svg" class="bgFlower bgBranchL">
