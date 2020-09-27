@@ -1,6 +1,6 @@
 
 
-baseURL = "https://meganbenson.me"
+baseURL = "//meganbenson.me"
 title = "Meg(an) Benson"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
