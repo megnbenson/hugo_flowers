@@ -8,9 +8,13 @@ Computational Artist
 
 ####
 <!--Find me on instagram [here](https://www.instagram.com/megnbenson/)-->
+
+Megan Benson a computational artist and practitioner, exploring the virtual with the earthly through tactile and kinaesthetic means. Her latest piece, Blossom Branch, reflects on social structures while exploring the translation of natural to mechanical movement. She's interested material and its lifespan, the dichotomy of zero-waste ideals with the latest smartphone in hand and the magic of movement and reaction. 
+<!--
 ![This is me][1]
 
 [1]: /static/img/me2.jpg
+-->
 
 
 <!--this was just index.md but change to underscore-->

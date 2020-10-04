@@ -4,7 +4,7 @@ image = "static/img/portfolio/Stickers/sticker.jpg"
 showonlyimage = true
 date = "2018-15-04T20:23:59+05:30"
 title = "stickers"
-weight = 1
+weight = 3
 +++
 
 stickers like, screen printing, sweet layers

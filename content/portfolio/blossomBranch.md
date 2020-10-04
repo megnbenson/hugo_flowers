@@ -1,10 +1,10 @@
 +++
 draft = false
-image = "/static/img/portfolio/BlossomBranch/blossomBranch.jpg"
+image = "/static/img/portfolio/BlossomBranch/blossomBranch.gif"
 showonlyimage = true
 date = "2020-15-06T20:23:59+05:30"
 title = "Blossom Branch, 2020"
-weight = 4
+weight = 1
 +++
 
 Blossom Branch, 2020. See [here](http://meganbenson.me/projects/flowers-final-degree-show/) for full documentation of piece journey and [here](http://meganbenson.me/flowers) for the piece.
