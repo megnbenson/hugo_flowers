@@ -17,8 +17,8 @@ publishDir = "megnbenson.github.io"
   description = "Describe your website"
   copyright = "&copy;2020 Megan Benson"
   sidebarAbout = [
-    "I am a digital artist, creative technologist, fresh graduate, shy illustrator, messy sculptor.",
-    "Originally from Kent, currently based in London."
+    "Digital artist, creative technologist, fresh graduate, shy illustrator, messy sculptor, light rollerskater, nice to meet ya",
+    "London based"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

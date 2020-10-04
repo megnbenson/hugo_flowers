@@ -9,13 +9,15 @@
       </header>
       <div class="homepage-content">
         <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
-        {{.Content}}
+<!--        {{.Content}}-->
       </div>
+<!--
       <div>
         {{ range first 10 .Site.RegularPages }}
             {{ .Render "summary"}}
         {{ end }}
       </div>
+-->
       {{ partial "mobile_nav_toggle.html" . }}
        <!--main flower animation bg-->
     <div class="bgFlower">
