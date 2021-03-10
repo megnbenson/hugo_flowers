@@ -421,13 +421,23 @@ width: 40%;
 }*/
 
 #seeMore {
-    width: 25vmin;
-    margin: 0 auto; 
-    text-align:center;
-    background-color: red;
-}  
+    width: 40vmin;
+    margin: auto;
+    text-align: center;
+    background-color: none;
+    border:double 2px purple;
+    
+}
     #seeMore p {
-        padding:1vw;
+        padding: 1vw;
+        margin:auto;
+        text-decoration: none;
+        color: black;
+    }
+
+    #seeMore:hover{
+        background-color:mediumpurple;
+        
     }
 
 /*for layout highlights
@@ -456,3 +466,4 @@ width: 40%;
     .flex-highlightsL, .flex-highlightsR {
         flex: 100%;
     }
+}
