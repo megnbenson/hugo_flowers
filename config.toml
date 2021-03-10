@@ -1,7 +1,7 @@
 
 
 baseURL = "//meganbenson.me"
-title = "Meg(an) Benson"
+title = "Megan Benson"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -17,7 +17,7 @@ publishDir = "megnbenson.github.io"
   description = "Describe your website"
   copyright = "&copy;2020 Megan Benson"
   sidebarAbout = [
-    "Digital artist, creative technologist, fresh graduate, shy illustrator, messy sculptor, light rollerskater, nice to meet ya",
+    "Meg is a Multi-Disciplinary Artist / Software Developer / Roller Skater",
     "London based"
   ]
   # Contact page

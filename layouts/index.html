@@ -1,25 +1,8 @@
-
 {{ define "main" }}
-    <main aria-role="main">
-      <header class="homepage-header">
-<!--        <h1>{{.Title}}</h1>-->
-        {{ with .Params.subtitle }}
-        <span class="subtitle">{{.}}</span>
-        {{ end }}
-      </header>
-      <div class="homepage-content">
-        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
-<!--        {{.Content}}-->
-      </div>
-<!--
-      <div>
-        {{ range first 10 .Site.RegularPages }}
-            {{ .Render "summary"}}
-        {{ end }}
-      </div>
--->
-      {{ partial "mobile_nav_toggle.html" . }}
-       <!--main flower animation bg-->
+<main aria-role="main">
+
+
+    <!--main flower animation bg-->
     <div class="bgFlower">
         <img src="imgs/SVG/branchAsset%2012.svg" class="bgFlower bgBranchL">
         <img src="imgs/SVG/branchAsset%2013.svg" class="bgFlower bgBranchR">
@@ -40,12 +23,65 @@
         <img src="imgs/SVG/rightFlowerAsset%2026.svg" class="bgFlower midFlRight">
         <img src="imgs/SVG/leftflower.svg" class="bgFlower leftFlower">
     </div>
-    </main>
-    
-        <!-- partial -->
+
+    <div class="flex-container">
+
+        {{ partial "mobile_nav_toggle.html" . }}
+
+
+        <div class="flex-highlightsL">
+            <div class="highlights" id="highlight1" >
+                <a href="/portfolio/blossombranch"><img class="highlight-image" src="/static/img/portfolio/BlossomBranch/blossomBranch.gif" /></a>
+            </div>
+
+            <div class="highlights" id="highlight2" data-aos="fade-right">
+                <img class="highlight-image" src="https://picsum.photos/500/300?random=1" />
+            </div>
+
+            <div class="highlights" id="highlight2" data-aos="fade-right">
+                <img class="highlight-image" src="https://picsum.photos/500/300?random=1" />
+            </div>
+
+            <div class="highlights" id="highlight2" data-aos="fade-right">
+                <img class="highlight-image" src="https://picsum.photos/500/300?random=1" />
+            </div>
+        </div>
+
+        <div class="flex-highlightsR">
+            <div class="highlights" id="highlight3">
+                <img class="highlight-image" src="https://picsum.photos/500/400?random=1" />
+            </div>
+
+            <div class="highlights" data-aos="fade-left">
+                <img class="highlight-image" src="https://picsum.photos/500/400?random=1" />
+            </div>
+
+
+        </div>
+
+    </div>
+
+    <div id="seeMore">
+        <div>
+            <p>See More Work</p>
+        </div>
+    </div>
+
+
+
+    <!--partial
     <script src='https://unpkg.com/aos@2.3.0/dist/aos.js'></script>
-    <script src="./script.js"></script>
-        <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css">-->
+
+</main>
+
+<!-- partial -->
+<script src='https://unpkg.com/aos@2.3.0/dist/aos.js'></script>
+<script src="./script.js"></script>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel='stylesheet' href='https://unpkg.com/aos@2.3.0/dist/aos.css'>
 
 {{ end }}
 
