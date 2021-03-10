@@ -58,7 +58,7 @@ publishDir = "megnbenson.github.io"
   url = "contact/"
 
   [params.social]
-  facebook      = "https://www.facebook.com/mmmeggggg/"
+  #facebook      = "https://www.facebook.com/mmmeggggg/"
   # googleplus    = "full profile url in googleplus"
   email         = "art.meganbenson@yahoo.co.uk"
   # twitter       = "full profile url in twitter"
