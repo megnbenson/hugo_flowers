@@ -4,10 +4,9 @@
     "\\archetypes",
     "\\content",
     "\\megnbenson.github.io",
-    "\\public",
-    "\\public\\static",
-    "\\themes\\hugo-creative-portfolio-theme"
+    "\\megnbenson.github.io\\portfolio",
+    "\\public\\static\\img\\portfolio"
   ],
-  "SelectedNode": "\\megnbenson.github.io\\style.css",
+  "SelectedNode": "\\config.toml",
   "PreviewInSolutionExplorer": false
 }

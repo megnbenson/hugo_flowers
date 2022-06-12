@@ -4,7 +4,7 @@ image = "/static/img/portfolio/BlossomBranch/exhib.gif"
 showonlyimage = true
 date = "2020-01-10T20:23:59+05:30"
 title = "Remote Latency, 2020"
-weight = 1
+weight = 2
 +++
 
 [Remote Latency](https://remotelatency.com/), Online Exhibition hosted with Arebyte On Screen. 
