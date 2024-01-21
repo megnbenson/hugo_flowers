@@ -9,7 +9,7 @@ Documentation for Blossom Branch - Degree Show adapted project 2020
 <!--more-->
 
 Links:
-* [The piece](http://meganbenson.me/flowers/)
+* [The piece](http://megnbenson.github.io/flowers/)
 * [A mockup for what it could have been](https://megs2020degreeshowblog.tumblr.com/post/621543313939546112/mock-up-of-what-it-could-have-been)
 * [github](https://github.com/megnbenson/flowers)
 * [tinkerCad flower](https://www.tinkercad.com/things/gHI3UGya7xu-flowerdesign)
